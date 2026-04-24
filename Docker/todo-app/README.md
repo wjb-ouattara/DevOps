@@ -453,9 +453,9 @@ Defining service start order does not guarantee service readiness. A PostgreSQL 
 
 ## 👤 Author
 
-**Wahon**
+**Ouattara Wahon Jean-Baptiste**
 DevOps Engineer in Training
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/wjb-ouattara) · [LinkedIn](https://linkedin.com/in/owjb)
 
 ---
 
